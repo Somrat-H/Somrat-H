@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 --!>
-- 🔭 I’m currently working on Flutter Mobile App Development\n
-- 🌱 I’m currently learning Flutter(Dart)
+- 🔭 I’m currently working on Flutter Mobile App Development.
+- 🌱 I’m currently learning Flutter(Dart).
 
 <!--
 - !=#👯 I’m looking to collaborate on ...
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <img src="https://komarev.com/ghpvc/?username=your-github-Somrat-H&style=flat-square&color=blue" alt=""/>
