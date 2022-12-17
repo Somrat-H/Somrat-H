@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Somrat-H/Somrat-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm MD. Somrat Hossain
 
-Here are some ideas to get you started:
---!>
--: 🔭 I’m currently working on Flutter Mobile App Development..
--: 🌱 I’m currently learning Flutter(Dart).
+- I’m currently working on Flutter Mobile App Development..
+- I’m currently learning Flutter(Dart).
 
 <!--
 - !=#👯 I’m looking to collaborate on ...
