@@ -2,7 +2,6 @@
 
 ### I'm MD. Somrat Hossain
 
-- I’m currently working on Flutter Mobile App Development..
 - I’m currently learning Flutter(Dart).
 
 #### Find me on
