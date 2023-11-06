@@ -19,3 +19,8 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-Somrat-H&style=flat-square&color=blue" alt=""/>
+<div>
+        <h3><b>My Stats</b></h3>
+    </div>
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somrat-H&layout=compact)
