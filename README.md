@@ -2,7 +2,7 @@
 
 ### I'm MD. Somrat Hossain
 
-- I’m currently learning Flutter(Dart).
+- I’m currently working on Flutter(Dart).
 
 #### Find me on
 
@@ -24,3 +24,4 @@
     </div>
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somrat-H&layout=compact)
+![Lumberjack Programmer github stats](https://github-readme-stats.vercel.app/api?username=Somrat-H&show_icons=true&hide_border=true)
